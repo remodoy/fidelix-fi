@@ -1,5 +1,7 @@
 # fidelix-fi
 
+You can check our blog post for more background on the project on [Medium](https://medium.com/remod/fidelix-fi-helping-those-exposed-e69654bdd7c6).
+
 Publicly open Fidelix building automation devices listed in [ip.csv](./ip.csv).
 
 Please act responsibly!
@@ -7,6 +9,8 @@ Please act responsibly!
 Guide
 ===
 Use a browser of your choice to check that the ip listed is still online. You can then use Google cache to try to find who it belongs to and contact them.
+
+If you can locate, identify and help remove devices from the list, do not hesitate to create a pull request to remove those IPs from the list. This will also leave your footprint on the road to creating a more secure tomorrow!
 
 Do not!
 ====
