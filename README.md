@@ -4,6 +4,10 @@ Publicly open Fidelix building automation devices listed in [ip.csv](./ip.csv).
 
 Please act responsibly!
 
+Guide
+===
+Use a browser of your choice to check that the ip listed is still online. You can then use Google cache to try to find who it belongs to and contact them.
+
 Do not!
 ====
 
