@@ -1,6 +1,6 @@
 # fidelix-fi
 
-Publicly open Fidelix building automation devices listed in ip.csv
+Publicly open Fidelix building automation devices listed in [ip.csv](./ip.csv).
 
 Please act responsibly!
 
